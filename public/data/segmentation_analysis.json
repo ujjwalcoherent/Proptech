@@ -1,28 +1,60 @@
 {
   "Global": {
-    "By Type": {
-      "Sub-Normothermic Perfusion (20–34°C)": {},
-      "Warm or Normothermic Perfusion (35–37°C)": {}
+    "By Solution Type": {
+      "Property Valuation and Investment Analytics": {
+        "Valuation and Appraisal Software": {},
+        "Cash Flow and Forecasting Tools": {},
+        "Investment and Scenario Modelling": {},
+        "Fund and Portfolio Analytics": {}
+      },
+      "Market Data and Intelligence Platforms": {
+        "Property Data and Ownership Records": {},
+        "Transaction and Market Trend Analytics": {},
+        "Benchmarking and Performance Dashboards": {},
+        "Data Aggregation and Insight Platforms": {}
+      },
+      "Development and Project Feasibility Solutions": {
+        "Development Feasibility Modelling": {},
+        "Project Budgeting and Cost Analysis": {},
+        "Construction and Loan Monitoring": {},
+        "Project Risk and Progress Analytics": {}
+      },
+      "Debt and Financial Management Solutions": {
+        "Debt and Loan Management Tools": {},
+        "Financing Exposure and Covenant Monitoring": {},
+        "Treasury and Financial Workflow Systems": {}
+      },
+      "Advisory and Consulting Services": {
+        "Property Valuation and Appraisal Services": {},
+        "Development and Construction Advisory": {},
+        "Cost Consulting and Due Diligence": {},
+        "Valuation Management Services": {}
+      },
+      "Others (Facility & Asset Management Platforms, Leasing & Occupier Management Platforms, etc.)": {}
     },
-    "By Organ Type": {
-      "Liver": {},
-      "Heart": {},
-      "Lung": {},
-      "Kidney": {},
-      "Others (Pancreas, Small bowel / Intestine, Composite Tissues / Limb Perfusion (emerging use cases))": {}
+    "By Deployment": {
+      "Cloud Based": {},
+      "On Premise": {}
     },
-    "Application / Use Case": {
-      "Organ Preservation": {},
-      "Viability Assessment": {},
-      "Physiologic Transport": {},
-      "Reconditioning Marginal Organs": {},
-      "Others (Research Use / Protocol development)": {}
+    "By Enterprise Size": {
+      "Small and Medium Enterprises": {},
+      "Large Enterprises": {}
+    },
+    "By Business Model": {
+      "SaaS & Subscription Platforms": {},
+      "Data & Analytics Subscription Services": {},
+      "Project-Based Advisory & Professional Services": {},
+      "Managed Services": {},
+      "Hybrid Technology and Advisory Engagements": {}
     },
     "By End User": {
-      "Hospitals & Clinics": {},
-      "Specialty Clinic/Centers": {},
-      "Transplant Centers": {},
-      "Others (Research Institutes/Centers, Organ Procurement Organizations, etc.)": {}
+      "Institutional Investors and Real Estate Funds": {},
+      "REITs and Asset Management Firms": {},
+      "Property Developers and Construction Companies": {},
+      "Commercial Real Estate Owners and Operators": {},
+      "Lenders and Financial Institutions": {},
+      "Consulting, Brokerage and Advisory Firms": {},
+      "Others (Government Housing & Urban Planning Agencies, etc.)": {}
     },
     "By Region": {
       "North America": {
